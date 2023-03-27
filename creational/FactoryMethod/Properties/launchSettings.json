@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "FactoryMethod MySql": {
+      "commandName": "Project",
+      "commandLineArgs": "MySql mysqlserver:123"
+    },
+    "FactoryMethod Oracle": {
+      "commandName": "Project",
+      "commandLineArgs": "Oracle oracleserver:321"
+    }
+  }
+}
