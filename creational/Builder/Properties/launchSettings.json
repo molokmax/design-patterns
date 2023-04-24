@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Builder Sql": {
+      "commandName": "Project",
+      "commandLineArgs": "SQL Id,Name,Description Catalog Name=Test"
+    },
+    "Builder Mongo": {
+      "commandName": "Project",
+      "commandLineArgs": "Mongo id,name,description categories name=qwerty"
+    }
+  }
+}
